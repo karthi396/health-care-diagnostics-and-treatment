@@ -1,14 +1,22 @@
 # health-care-diagnostics-and-treatment
 COLLEGE CODE     :  1106
+
 COLLEGE NAME    : IIET
+
 DEPARTMENT       : BE.CSE
+
 STUDENT NM-ID  : 6AED344F638E2CC85ED496EAEBF05544
+
 ROLL NO                : 110623104012
+
 DATE                      : 17/05/2025
+
 TECHNOLOGY-PROJECT NAME:
 AI/EBPL/HEALTHCARE DIAGNOSTICS AND TREATMENT
+
 SUBMITTED BY,
 K.KARTHIK KUMAR
+
 Overview: 
 The demonstration will simulate clinical use cases, showing how the system aids in early disease detection, decision-making, and treatment optimization.
 Demonstration Details:
